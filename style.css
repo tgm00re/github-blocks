@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+}
+
+img{
+    height: 200px;
+}
+
+.container{
+    height: 20%;
+    width: 100%;
+    margin-bottom: 1%;
+    padding: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.pink{
+    background-color:rgb(238, 216, 240);
+}
+
+.blue{
+    background-color: rgb(100,200,250);
+}
+
+.green{
+    background-color: rgb(174, 250, 172);
+}
+
+h1{
+    color: rgb(73, 26, 89);
+    font-size: 3vw;
+}
